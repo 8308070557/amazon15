@@ -1,0 +1,17 @@
+fluent wait==> change the expression from one page to another page
+           ==> change the polling period/ wait frequency/TimeInterval/Pageload time out
+it is 
+-->only two methods applicable
+  1) get(String url)
+  2) navigate.to(String url)
+  Exception= Time out Exception
+
+
+
+
+
+
+
+what is dependency 
+==>dependency it is a jar from download to files or tools automaticaally  
+it is local reposatory to global reposatory
